@@ -322,7 +322,7 @@ def main():
             print(f"Error scraping data for party {row['Party']}: {str(e)}")
 
     if not candidate_data:
-        print("No candidate data could be scraped. Please check the website structure and URLs.")
+        print("No candidate data could be scraped.")
         candidate_df = pd.DataFrame()
     else:
         candidate_df = pd.concat(candidate_data, ignore_index=True)
