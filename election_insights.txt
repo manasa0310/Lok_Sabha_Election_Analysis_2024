@@ -1,0 +1,243 @@
+Top 5 parties analysis:
+                              Party  Total  Percentage
+       Bharatiya Janata Party - BJP    240   44.198895
+     Indian National Congress - INC     99   18.232044
+               Samajwadi Party - SP     37    6.813996
+All India Trinamool Congress - AITC     29    5.340700
+    Dravida Munnetra Kazhagam - DMK     22    4.051565
+
+Seat Share Analysis:
+                                                   Party  Seat Share
+                            Bharatiya Janata Party - BJP    0.441989
+                          Indian National Congress - INC    0.182320
+                                    Samajwadi Party - SP    0.068140
+                     All India Trinamool Congress - AITC    0.053407
+                         Dravida Munnetra Kazhagam - DMK    0.040516
+                                      Telugu Desam - TDP    0.029466
+                            Janata Dal  (United) - JD(U)    0.022099
+          Shiv Sena (Uddhav Balasaheb Thackrey) - SHSUBT    0.016575
+Nationalist Congress Party – Sharadchandra Pawar - NCPSP    0.014733
+                                         Shiv Sena - SHS    0.012891
+                                       Independent - IND    0.012891
+                                                  Others    0.104972
+
+Number of single-seat parties: 17
+         United People’s Party, Liberal - UPPL
+                      Asom Gana Parishad - AGP
+       Hindustani Awam Morcha (Secular) - HAMS
+                         Kerala Congress - KEC
+           Revolutionary Socialist Party - RSP
+              Nationalist Congress Party - NCP
+             Voice of the People Party - VOTPP
+                 Zoram People’s Movement - ZPM
+                     Shiromani Akali Dal - SAD
+             Rashtriya Loktantrik Party - RLTP
+             Bharat Adivasi Party - BHRTADVSIP
+                Sikkim Krantikari Morcha - SKM
+ Marumalarchi Dravida Munnetra Kazhagam - MDMK
+        Aazad Samaj Party (Kanshi Ram) - ASPKR
+                    Apna Dal (Soneylal) - ADAL
+                            AJSU Party - AJSUP
+All India Majlis-E-Ittehadul Muslimeen - AIMIM
+
+Dominance of top parties:
+Top 5 parties hold 78.64% of seats
+Top 10 parties hold 88.21% of seats
+
+Total number of parties: 42
+
+Number of relevant parties (>5% of seats): 4
+                              Party  Total
+       Bharatiya Janata Party - BJP    240
+     Indian National Congress - INC     99
+               Samajwadi Party - SP     37
+All India Trinamool Congress - AITC     29
+
+Parties with more than 10 seats:
+                              Party  Total
+       Bharatiya Janata Party - BJP    240
+     Indian National Congress - INC     99
+               Samajwadi Party - SP     37
+All India Trinamool Congress - AITC     29
+    Dravida Munnetra Kazhagam - DMK     22
+                 Telugu Desam - TDP     16
+       Janata Dal  (United) - JD(U)     12
+
+Top 5 candidates by winning margin:
+    Winning Candidate                          Party   Constituency  Margin
+      SHANKAR LALWANI   Bharatiya Janata Party - BJP     INDORE(26) 1175092
+      RAKIBUL HUSSAIN Indian National Congress - INC     Dhubri (2) 1012476
+SHIVRAJ SINGH CHOUHAN   Bharatiya Janata Party - BJP    VIDISHA(18)  821408
+            C R PATIL   Bharatiya Janata Party - BJP    Navsari(25)  773551
+            AMIT SHAH   Bharatiya Janata Party - BJP Gandhinagar(6)  744716
+
+Top 5 candidates by margin for each top 10 party:
+Bharatiya Janata Party - BJP:
+    Winning Candidate    Constituency  Margin
+      SHANKAR LALWANI      INDORE(26) 1175092
+SHIVRAJ SINGH CHOUHAN     VIDISHA(18)  821408
+            C R PATIL     Navsari(25)  773551
+            AMIT SHAH  Gandhinagar(6)  744716
+     BIPLAB KUMAR DEB Tripura West(1)  611578
+
+Indian National Congress - INC:
+         Winning Candidate   Constituency  Margin
+           RAKIBUL HUSSAIN     Dhubri (2) 1012476
+         Sasikanth Senthil  TIRUVALLUR(1)  572155
+         KUNDURU RAGHUVEER   Nalgonda(13)  559905
+RAMASAHAYAM RAGHURAM REDDY   Khammam (17)  467847
+              RAHUL GANDHI Rae Bareli(36)  390030
+
+Samajwadi Party - SP:
+Winning Candidate       Constituency  Margin
+     DIMPLE YADAV       Mainpuri(21)  221639
+   AKHILESH YADAV        Kannauj(42)  170922
+       RAJEEV RAI          Ghosi(70)  162943
+ DHARMENDRA YADAV       Azamgarh(69)  161035
+      LALJI VERMA Ambedkar Nagar(55)  137247
+
+All India Trinamool Congress - AITC:
+Winning Candidate        Constituency  Margin
+ABHISHEK BANERJEE Diamond harbour(21)  710930
+   PRATIMA MONDAL        Joynagar(19)  470219
+   SK NURUL ISLAM        Basirhat(18)  333547
+   ASIT KUMAR MAL          Bolpur(41)  327253
+     SAYANI GHOSH        Jadavpur(22)  258201
+
+Dravida Munnetra Kazhagam - DMK:
+      Winning Candidate     Constituency  Margin
+              T R BAALU SRIPERUMBUDUR(5)  487029
+  KANIMOZHI KARUNANIDHI THOOTHUKKUDI(36)  392738
+             ARUN NEHRU   PERAMBALUR(25)  389107
+DR.KALANIDHI VEERASWAMY CHENNAI NORTH(2)  339222
+             MURASOLI S    THANJAVUR(30)  319583
+
+Telugu Desam - TDP:
+          Winning Candidate       Constituency  Margin
+      SRIBHARAT MATHUKUMILI   Visakhapatnam(4)  504247
+DR CHANDRA SEKHAR PEMMASANI         Guntur(13)  344695
+      G M HARISH (BALAYOGI) Amalapuram (SC)(7)  342196
+   KINJARAPU RAMMOHAN NAIDU      Srikakulam(2)  327901
+ KESINENI SIVANATH (CHINNI)     Vijayawada(12)  282085
+
+Janata Dal  (United) - JD(U):
+   Winning Candidate   Constituency  Margin
+      RAMPRIT MANDAL Jhanjharpur(7)  184169
+DINESH CHANDRA YADAV  Madhepura(13)  174534
+    DILESHWAR KAMAIT      Supaul(8)  169803
+  KAUSHALENDRA KUMAR    Nalanda(29)  169114
+DR. ALOK KUMAR SUMAN  Gopalganj(17)  127180
+
+Shiv Sena (Uddhav Balasaheb Thackrey) - SHSUBT:
+                             Winning Candidate         Constituency  Margin
+OMPRAKASH BHUPALSINH ALIAS PAVAN RAJENIMBALKAR        Osmanabad(40)  329846
+                 RAJABHAU (PARAG) PRAKASH WAJE           Nashik(21)  162001
+              JADHAV SANJAY ( BANDU ) HARIBHAU         Parbhani(17)  134061
+                AASHTIKAR PATIL NAGESH BAPURAO          Hingoli(15)  108602
+                      SANJAY UTTAMRAO DESHMUKH Yavatmal- Washim(14)   94473
+
+Nationalist Congress Party – Sharadchandra Pawar - NCPSP:
+                Winning Candidate Constituency  Margin
+                     SUPRIYA SULE Baramati(35)  158333
+           DR. AMOL RAMSING KOLHE   Shirur(36)  140951
+MOHITE-PATIL DHAIRYASHEEL RAJSINH    Madha(43)  120837
+        BHASKAR MURLIDHAR BHAGARE Dindori (20)  113199
+              AMAR SHARADRAO KALE    Wardha(8)   81648
+
+Shiv Sena - SHS:
+         Winning Candidate   Constituency  Margin
+      NARESH GANPAT MHASKE      Thane(25)  217011
+ DR SHRIKANT EKNATH SHINDE     Kalyan(24)  209144
+BHUMARE SANDIPANRAO ASARAM Aurangabad(19)  134650
+SHRIRANG APPA CHANDU BARNE      Maval(33)   96615
+JADHAV PRATAPRAO GANPATRAO    Buldhana(5)   29479
+
+Least 5 candidates by winning margin:
+                           Winning Candidate                          Party          Constituency  Margin
+MUKESHKUMAR CHANDRAKAANT DALAL (Uncontested)   Bharatiya Janata Party - BJP             Surat(24)       0
+                    RAVINDRA DATTARAM WAIKAR                Shiv Sena - SHS Mumbai North West(27)      48
+                           ADV ADOOR PRAKASH Indian National Congress - INC          Attingal(19)     684
+                     RABINDRA NARAYAN BEHERA   Bharatiya Janata Party - BJP             Jajpur(8)    1587
+                          RAO RAJENDRA SINGH   Bharatiya Janata Party - BJP       JAIPUR RURAL(6)    1615
+
+Least 5 candidates by margin for each top 10 party:
+Bharatiya Janata Party - BJP:
+                           Winning Candidate    Constituency  Margin
+MUKESHKUMAR CHANDRAKAANT DALAL (Uncontested)       Surat(24)       0
+                     RABINDRA NARAYAN BEHERA       Jajpur(8)    1587
+                          RAO RAJENDRA SINGH JAIPUR RURAL(6)    1615
+                                 BHOJRAJ NAG      KANKER(11)    1884
+                               MUKESH RAJPUT Farrukhabad(40)    2678
+
+Indian National Congress - INC:
+        Winning Candidate   Constituency  Margin
+        ADV ADOOR PRAKASH   Attingal(19)     684
+            MANISH TEWARI  Chandigarh(1)    2504
+MUHAMMED HAMDULLAH SAYEED Lakshadweep(1)    2647
+       SHER SINGH GHUBAYA   Firozpur(10)    3242
+    BACHHAV SHOBHA DINESH       Dhule(2)    3831
+
+Samajwadi Party - SP:
+  Winning Candidate  Constituency  Margin
+AJENDRA SINGH LODHI  Hamirpur(47)    2629
+RAMASHANKAR RAJBHAR  Salempur(71)    3573
+   ANAND BHADAURIYA Dhaurahra(29)    4449
+      NEERAJ MAURYA     Aonla(24)   15969
+     BIRENDRA SINGH Chandauli(76)   21565
+
+All India Trinamool Congress - AITC:
+             Winning Candidate     Constituency  Margin
+                    BAG MITALI     Arambagh(29)    6399
+                   JUNE MALIAH    Medinipur(34)   27191
+              ARUP CHAKRABORTY      Bankura(36)   32778
+JAGADISH CHANDRA BARMA BASUNIA    Coochbehar(1)   39250
+                  MAHUA MOITRA Krishnanagar(12)   56705
+
+Dravida Munnetra Kazhagam - DMK:
+   Winning Candidate     Constituency  Margin
+            MANI. A.   DHARMAPURI(10)   21300
+     MATHESWARAN V S     NAMAKKAL(16)   29112
+      MALAIYARASAN D KALLAKURICHI(14)   53784
+  SELVAGANAPATHI T M        SALEM(15)   70357
+GANAPATHY RAJKUMAR P   COIMBATORE(20)  118068
+
+Telugu Desam - TDP:
+               Winning Candidate    Constituency  Margin
+      MAGUNTA SREENIVASULU REDDY      Ongole(16)   50199
+BASTIPATI NAGARAJU PANCHALINGALA    Kurnoolu(18)  111298
+              DR BYREDDY SHABARI     Nandyal(17)  111975
+               B K PARTHASARATHI    Hindupur(20)  132427
+      LAVU SRIKRISHNA DEVARAYALU Narsaraopet(14)  159729
+
+Janata Dal  (United) - JD(U):
+                   Winning Candidate      Constituency  Margin
+                        LOVELY ANAND        Sheohar(4)   29143
+               DEVESH CHANDRA THAKUR      Sitamarhi(5)   51356
+RAJIV RANJAN SINGH ALIAS LALAN SINGH        Munger(28)   80870
+                   VIJAYLAKSHMI DEVI         Siwan(18)   92857
+                         SUNIL KUMAR Valmiki Nagar (1)   98675
+
+Shiv Sena (Uddhav Balasaheb Thackrey) - SHSUBT:
+          Winning Candidate             Constituency  Margin
+          SANJAY DINA PATIL    Mumbai North East(28)   29861
+BHAUSAHEB RAJARAM WAKCHAURE              Shirdi (38)   50529
+       ARVIND GANPAT SAWANT         Mumbai South(31)   52673
+        ANIL YESHWANT DESAI Mumbai South Central(30)   53384
+   SANJAY UTTAMRAO DESHMUKH     Yavatmal- Washim(14)   94473
+
+Nationalist Congress Party – Sharadchandra Pawar - NCPSP:
+                  Winning Candidate   Constituency  Margin
+            BAJRANG MANOHAR SONWANE       Beed(39)    6553
+              NILESH DNYANDEV LANKE Ahmednagar(37)   28929
+BALYA MAMA - SURESH GOPINATH MHATRE   Bhiwandi(23)   66121
+                AMAR SHARADRAO KALE      Wardha(8)   81648
+          BHASKAR MURLIDHAR BHAGARE   Dindori (20)  113199
+
+Shiv Sena - SHS:
+            Winning Candidate          Constituency  Margin
+     RAVINDRA DATTARAM WAIKAR Mumbai North West(27)      48
+DHAIRYASHEEL SAMBHAJIRAO MANE      Hatkanangale(48)   13426
+   JADHAV PRATAPRAO GANPATRAO           Buldhana(5)   29479
+   SHRIRANG APPA CHANDU BARNE             Maval(33)   96615
+   BHUMARE SANDIPANRAO ASARAM        Aurangabad(19)  134650
+
